@@ -1,2 +1,3 @@
 # Basic-Portfolio
-Homework Assignment#1
+
+This is just a redirect to [tylermaran.com](https://www.tylermaran.com/) since google has is cached already.
